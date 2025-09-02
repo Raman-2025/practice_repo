@@ -5,6 +5,8 @@ print("STEPS<br>" \
 "2:  and back" \
      "2a: it main branch" \
 "3 =a=b=c" \
+     <br>"2a : it main branch" \
+"3 change again " \
 "4" \
 "5" \
 "6" \
