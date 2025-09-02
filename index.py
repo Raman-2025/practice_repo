@@ -3,6 +3,7 @@ print ("create new repo in vs ")
 print("STEPS<br>" \
 " 1 : i create this repo first in my local than i do init command " \
 "2:  and back" \
+     "2a: it main branch" \
 "3" \
 "4" \
 "5" \
